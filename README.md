@@ -1,6 +1,3 @@
-Conversor de Texto para Áudio
-Este projeto em Python converte textos em arquivos de áudio usando síntese de voz offline (pyttsx3) e uma interface gráfica simples com tkinter.
-
 Organização do Código
 1. MotorDeVoz
 Responsável por controlar o motor de síntese de voz:
@@ -38,16 +35,3 @@ Inicializa a interface.
 Chama as funções do motor para converter o texto.
 
 Controla o fluxo do programa.
-
-Como usar
-Execute o main.py.
-
-Escreva ou carregue um texto.
-
-Selecione voz, velocidade e formato.
-
-Clique em “Converter e Salvar Áudio”.
-
-Escolha o local para salvar o arquivo.
-
-Aguarde a mensagem de confirmação.
